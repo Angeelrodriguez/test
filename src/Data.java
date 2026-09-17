@@ -3,5 +3,7 @@
 *@author Angel
 */
 public class Data{
-
+    static void numeros(){
+        
+    }
 }
